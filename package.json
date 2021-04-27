@@ -1,0 +1,19 @@
+{
+  "name": "vecos-locker-fetcher",
+  "version": "1.0.0",
+  "description": "vecos-locker-fetcher by Thing-It",
+  "private": "true",
+  "main": "main_export.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "simple-oauth2": "^3.3.0",
+    "superagent": "^6.1.0",
+    "superagent-prefix": "^0.0.2"
+  }
+}
